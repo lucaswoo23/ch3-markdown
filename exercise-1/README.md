@@ -10,3 +10,8 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+>
+"So we beat on, boats against the current, borne back ceaselessly into the past."
+
+https://en.wikipedia.org/wiki/The_Great_Gatsby
